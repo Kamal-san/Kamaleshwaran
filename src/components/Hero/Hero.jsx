@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import styles from "./Hero.module.css";
 
 export const Hero = () => {
-  const name = "Kamaleshwaran E";
+  const name = "Kamaleshwaran";
   const [typedName, setTypedName] = useState("");
   const [index, setIndex] = useState(0);
 
