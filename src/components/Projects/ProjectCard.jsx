@@ -6,14 +6,16 @@ import trendChoice from "./trendChoice.png";
 import gym from "./gym.png";
 //import blog from "./blog.jpg";
 import chatBot from "./chatBot.png";
-import bento from "./bento.jpg"
+import bento from "./bento.jpg";
+import womens from "./womens.png";
 
 const imageMap = {
   "projects/Loan_Approval.png": loanApproval,
   "projects/trendChoice.png": trendChoice,
   "projects/bento.png": bento,
   "projects/gym.png": gym,
-  "projects/chatBot.png": chatBot
+  "projects/chatBot.png": chatBot,
+  "projects/womens.png": womens
 };
 
 export const ProjectCard = ({ project }) => {

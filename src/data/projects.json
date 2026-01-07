@@ -41,5 +41,13 @@
     "skills": ["React", "JavaScript","Node.js"],
     "demo": "https://kamal-san.github.io/ChatBot/",
     "source": "https://github.com/Kamal-san/ChatBot.git"
+  },
+  {
+    "title": "Smart Device for Women Safety",
+    "imageSrc": "projects/womens.png",
+    "description": "Developed a wearable smart device prototype with a connected mobile app to enhance women’s safety in public spaces. The system sends real-time location alerts to emergency contacts and nearby police stations during distress situations, enabling timely assistance.",
+    "skills": ["Arduino","Android Studio"],
+    "demo": "https://drive.google.com/file/d/1Bt2JBNLtI5T1pSjIkU-TfOCUgHL_yAHG/view?usp=sharing",
+    "source": ""
   }
 ]
