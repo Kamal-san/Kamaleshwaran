@@ -4,13 +4,14 @@ import styles from "./ProjectCard.module.css";
 import loanApproval from "./Loan_Approval.png";
 import trendChoice from "./trendChoice.png";
 import gym from "./gym.png";
-import blog from "./blog.jpg";
+//import blog from "./blog.jpg";
 import chatBot from "./chatBot.png";
+import bento from "./bento.jpg"
 
 const imageMap = {
   "projects/Loan_Approval.png": loanApproval,
   "projects/trendChoice.png": trendChoice,
-  "projects/blogspace.png": blog,
+  "projects/bento.png": bento,
   "projects/gym.png": gym,
   "projects/chatBot.png": chatBot
 };

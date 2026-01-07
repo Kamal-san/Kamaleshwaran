@@ -19,21 +19,21 @@
 
   
   {
-    "title": "LightWeight - React website",
+    "title": "LightWeight Fitness - React website",
     "imageSrc": "projects/gym.png",
     "description": "A modern, responsive static website for a gym built using React and CSS. Showcases services, trainers, and contact info with smooth navigation and clean UI.",
     "skills": ["React", "CSS", "JavaScript", "Responsive Design"],
     "demo": "https://kamal-san.github.io/LightWeight_Gym/",
     "source": "https://github.com/Kamal-san/LightWeight_Gym.git"
   },
-  {
-    "title": "BlogSpace – Full-Stack Blog & Comment System",
-    "imageSrc": "projects/blogspace.png",
-    "description": "A scalable blog platform where users can read, post, and comment on blogs. Features JWT Auth, Redis caching, rate limiting, lazy loading, moderation, and a modern frontend with animations and responsive UI.",
-    "skills": ["React", "Node.js", "Express", "MongoDB", "Redis", "JWT", "Tailwind CSS", "AOS", "Rate Limiting"],
-    "demo": "https://b1ogspace.netlify.app/",
-    "source": "https://github.com/yourusername/blogspace"
-  },
+   {
+  "title": "Bento Layout for Mobile Accessories",
+  "imageSrc": "projects/bento.png",
+  "description": "A sleek, modern web layout inspired by the Bento style used by Apple to showcase iPhone accessories. Features modular grid sections.",
+  "skills": ["HTML", "CSS", "Tailwind CSS", "JavaScript", "Responsive Design", "UI/UX", "Grid Layout"],
+  "demo": "https://bento-murex-eight.vercel.app/",
+  "source": "https://github.com/Kamal-san/bento"
+},
   {
     "title": "ChatBot Application",
     "imageSrc": "projects/chatBot.png",
