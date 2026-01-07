@@ -1,0 +1,45 @@
+[
+  
+  {
+    "title": "Decision Making Process on Loan Approval",
+    "imageSrc": "projects/Loan_Approval.png",
+    "description": "Built a full-stack ML application using FastAPI, MongoDB, and React to predict loan approval decisions with confidence scores and SHAP-based explainability, secured via JWT authentication.",
+    "skills": ["Machine Learning","python", "React", "Node.js", "MongoDB", "OpenAI API", "Rate Limiting", "JWT"],
+    "demo": "https://loan-approval-ml-eight.vercel.app/",
+    "source": "https://github.com/Kamal-san/LoanApproval-ML.git"
+  },
+  {
+    "title": "TrendChoice – MERN-Stack E-commerce Application",
+    "imageSrc": "projects/trendChoice.png",
+    "description": "TrendChoice is a E-Commerce web application built with a modern MERN stack architecture, providing a seamless online shopping experience with product management, and dynamic order workflows. It is designed to be scalable, responsive, and optimized for real-world production usage.",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "CSS"],
+    "demo": "https://calm-taffy-cc4b3c.netlify.app//",
+    "source": "https://github.com/yourusername/blogspace"
+  },
+
+  
+  {
+    "title": "LightWeight - React website",
+    "imageSrc": "projects/gym.png",
+    "description": "A modern, responsive static website for a gym built using React and CSS. Showcases services, trainers, and contact info with smooth navigation and clean UI.",
+    "skills": ["React", "CSS", "JavaScript", "Responsive Design"],
+    "demo": "https://kamal-san.github.io/LightWeight_Gym/",
+    "source": "https://github.com/Kamal-san/LightWeight_Gym.git"
+  },
+  {
+    "title": "BlogSpace – Full-Stack Blog & Comment System",
+    "imageSrc": "projects/blogspace.png",
+    "description": "A scalable blog platform where users can read, post, and comment on blogs. Features JWT Auth, Redis caching, rate limiting, lazy loading, moderation, and a modern frontend with animations and responsive UI.",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "Redis", "JWT", "Tailwind CSS", "AOS", "Rate Limiting"],
+    "demo": "https://b1ogspace.netlify.app/",
+    "source": "https://github.com/yourusername/blogspace"
+  },
+  {
+    "title": "ChatBot Application",
+    "imageSrc": "projects/chatBot.png",
+    "description": "A small ChatBot application with responsive UI.which can tell today's date, flip a coin and roll a dice using React for frontend and Node.js for backend",
+    "skills": ["React", "JavaScript","Node.js"],
+    "demo": "https://kamal-san.github.io/ChatBot/",
+    "source": "https://github.com/Kamal-san/ChatBot.git"
+  }
+]
