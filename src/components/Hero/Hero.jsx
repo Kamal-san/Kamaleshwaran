@@ -26,7 +26,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>I&apos;m {typedName}</h1>
         <p className={styles.description}>
-          A passionate Full-Stack Developer with a strong interest in building scalable web applications and real world AI solutions. 
+          A passionate Software Developer with a strong interest in building scalable web applications and real world AI solutions. 
           Enthusiastic about solving real-world problems using technology and continuously learning new skills.
         </p>
         <div>
